@@ -1,4 +1,6 @@
-# Bluetooth Low Energy 
+# Bluetooth Low Energy
+
+This project is an example of detecting sensor readings from a bluetooth low energy device nearby, ultimately to invoke an API. 
 
 - Govee Temp/Humidity Sensor
 - Tuya Smart Plugs 
