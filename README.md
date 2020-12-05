@@ -4,8 +4,9 @@
 - Tuya Smart Plugs 
 - Telegram
 
-Dockerfile -> TBD
+## Usage
 
+Dockerfile -> TBD
 
 ## Acknowledgments
 
